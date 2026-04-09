@@ -1,10 +1,10 @@
 {
-  "name": "FasoJob",
+  "name": "FasoJob - Le LinkedIn Africain",
   "short_name": "FasoJob",
-  "description": "Plateforme d'emploi et de talents au Burkina Faso",
+  "description": "Plateforme de mise en relation entre entreprises et talents au Burkina Faso.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#f8fafc",
   "theme_color": "#075e54",
   "icons": [
     {
